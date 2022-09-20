@@ -9,4 +9,4 @@ Important steps for git workflow
 6. view with git log
 #git psyched
 
-
+Also, now, I'm editing this from the browser to simulate working on a team, and someone pushed changes to the remote repo (origin) from elsewhere, so I'll have to pull those commits to my local repo so that I have the full project before committing anything else.
